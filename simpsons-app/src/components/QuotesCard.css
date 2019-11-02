@@ -1,0 +1,38 @@
+
+.QuoteCard{
+    display:flex;
+    align-items: center;
+    width:100px;
+    padding:2em;
+    box-shadow: 2px 2px 2px 2px grey;
+}
+
+img{
+    width:7em;
+}
+
+blockquote{
+    padding:0;
+    margin:0;
+}
+
+cite{
+    padding:2em 0em;
+}
+
+figcaption{
+    padding:1.5em;
+}
+
+.flex{
+    display: flex;
+    justify-content: space-between;
+}
+
+.favorite-true{
+    color:red
+}
+
+.favorite-false{
+    color:grey;
+}

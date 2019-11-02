@@ -1,0 +1,13 @@
+nav{
+    display: flex;
+    align-items: center;
+    height:70px;
+    background-color:#574176;
+}
+
+#title-navBar{
+    color:#fff;
+    font-size: 1.5em;
+    text-decoration: none;
+    padding: 2em;
+}
